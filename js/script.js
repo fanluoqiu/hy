@@ -20,16 +20,16 @@ new Vue({
         {
           name: "赵雷",
           artist: "我记得",
-          cover: "image/2.jpg",
-          source: "music/2.mp3",
+          cover: "../image/2.jpg",
+          source: "../music/2.mp3",
           url: "https://music.163.com/#/playlist?id=8835002216&creatorId=293318244",
           favorited: true
         },
         {
           name: "杨瑞代&Lara梁心颐", 
           artist: "黑色静态",
-          cover: "image/1.jpg",
-          source: "music/1.mp3",
+          cover: "../image/1.jpg",
+          source: "../music/1.mp3",
           url: "https://music.163.com/#/playlist?id=8835002216&creatorId=293318244",
           favorited: false
         }
